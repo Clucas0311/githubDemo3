@@ -4,3 +4,4 @@ console.log("Bye");
 console.log("Goodbye");
 console.log("something");
 console.log("Chuck");
+console.log("hi");
